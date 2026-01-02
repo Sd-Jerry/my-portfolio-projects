@@ -1,25 +1,14 @@
-# Samrat Tyre – Tyre & Automobile Services Website
+# My Web Development Portfolio
 
-🌐 **Live Website:** https://www.samrattyre.com/
+## 🔹 Samrat Tyre
+🌐 https://www.samrattyre.com   
+🛠 HTML, CSS, JavaScript, .Php     
+📄 Business website for all type of companies Tyre & automobile realated service.     
 
-## 📌 Project Overview
-Samrat Tyre is a business website developed for a tyre and other wheels service provider. The website highlights services, brand presence, all company tyre's and customer accessibility with a modern and responsive design.
-
-This project emphasizes usability, speed, and business credibility.
-
-## ✨ Key Features
-- Responsive business website layout
-- Service-focused design
-- Clear navigation structure
-- Mobile-friendly UI
-- Fast loading & optimized assets
-- Simple and professional design
-
-## 🛠 Tech Stack
-- HTML5  
-- CSS3  
-- JavaScript
-- .PhP
+## 🔹 Nagraj Enterprise
+🌐 https://www.nagrajenterprise.com  
+🛠 HTML, CSS, JavaScript  
+📄 Business website for credit card swiping & loan services.
 
 ## 📂 Project Purpose
 This website was created for a **real client** and is included in my portfolio to demonstrate my frontend development skills.
